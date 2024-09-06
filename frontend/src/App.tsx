@@ -1,4 +1,5 @@
 import { SignedIn, SignedOut, SignInButton, UserButton } from "@clerk/clerk-react";
+import { BentoDemo } from "./components/custom/BentoGrade";
 
 export default function App() {
   return (
